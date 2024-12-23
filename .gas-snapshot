@@ -1,0 +1,6 @@
+fundme_test:testaddfundertoarray() (gas: 100154)
+fundme_test:testfunddata() (gas: 99727)
+fundme_test:testfundwithoutenougheth() (gas: 23049)
+fundme_test:testmimimumusd() (gas: 8389)
+fundme_test:testownerismsg() (gas: 11347)
+fundme_test:testwithdrawwithfunders() (gas: 491051)
